@@ -1,5 +1,7 @@
 # Cubo-Magico
 
+ESTE É UM TRABALHO ACADEMICO COM INTUITO EDUCATIVO SOMENTE.
+
 Projeto de Resolução de Cubo Mágico com Visão Computacional e Arduino
 Este projeto implementa um sistema para escanear e resolver um cubo mágico (Rubik's Cube) utilizando visão computacional em Python e controle de hardware via Arduino. O sistema é capaz de identificar as cores de cada face do cubo, determinar a sequência de movimentos para resolvê-lo e, em seguida, executar esses movimentos através de um mecanismo robótico controlado pelo Arduino.
 
